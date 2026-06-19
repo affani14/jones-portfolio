@@ -6,7 +6,7 @@ Personal portfolio site. Static HTML + CSS, editorial brutalism style.
 
 [Live Portfolio Website](https://jones-portfolio-omega.vercel.app/)
 
-![Portfolio Screenshot](https://github.com/affani14/jones-portfolio/assets/screenshot.png)
+![Portfolio Screenshot](assets/screenshot.png)
 
 ## Stack
 
@@ -49,7 +49,6 @@ Editorial Brutalism — light theme. Anti-AI-slop principles:
 - Rotated stat cards
 - Terminal-style accents (mono fonts, prompt markers)
 
-![Design System Sample](https://github.com/affani14/jones-portfolio/assets/design-sample.png)
 
 ## Visual Style
 
